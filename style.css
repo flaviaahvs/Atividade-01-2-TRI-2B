@@ -1,16 +1,13 @@
-:root {
+:root{
     --cor-de-fundo: #EBECEE;
 }
-
-body {
+body{
     background-color: var(--cor-de-fundo);
 }
-
-h1 {
+h1{
     background-color: white;
 }
-
-    {
-margin:0;
-padding:0;
-    }
+*{
+    margin: 0;
+    padding: 0;
+}
