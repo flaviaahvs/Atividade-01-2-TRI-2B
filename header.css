@@ -5,6 +5,7 @@
     /*altura*/
     background-image: url(Menu.svg);
     /*imagem de fundo*/
+    background-repeat: no-repeat;
     display: inline-block;
     /**/
 }
